@@ -1,0 +1,10 @@
+[TRACE] 2020-09-24 14:22:03.007 [main] Log4jdemo - this is trace message
+[INFO ] 2020-09-24 14:22:03.013 [main] Log4jdemo - this is an information message
+[ERROR] 2020-09-24 14:22:03.013 [main] Log4jdemo - this is an error message
+[WARN ] 2020-09-24 14:22:03.013 [main] Log4jdemo - this is waring message
+[FATAL] 2020-09-24 14:22:03.014 [main] Log4jdemo - this is fatal message
+[TRACE] 2020-09-25 15:25:57.676 [main] Log4jdemo - this is trace message
+[INFO ] 2020-09-25 15:25:57.683 [main] Log4jdemo - this is an information message
+[ERROR] 2020-09-25 15:25:57.684 [main] Log4jdemo - this is an error message
+[WARN ] 2020-09-25 15:25:57.684 [main] Log4jdemo - this is waring message
+[FATAL] 2020-09-25 15:25:57.684 [main] Log4jdemo - this is fatal message

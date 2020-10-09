@@ -1,0 +1,27 @@
+[INFO ] 2020-09-25 15:29:34.121 [main] Log4jdemo - this is an information message
+[ERROR] 2020-09-25 15:29:34.128 [main] Log4jdemo - this is an error message
+[WARN ] 2020-09-25 15:29:34.128 [main] Log4jdemo - this is waring message
+[FATAL] 2020-09-25 15:29:34.129 [main] Log4jdemo - this is fatal message
+[INFO ] 2020-09-25 15:40:31.714 [main] Log4jdemo - this is an information message
+[ERROR] 2020-09-25 15:40:31.721 [main] Log4jdemo - this is an error message
+[WARN ] 2020-09-25 15:40:31.721 [main] Log4jdemo - this is waring message
+[FATAL] 2020-09-25 15:40:31.721 [main] Log4jdemo - this is fatal message
+[INFO ] 2020-09-25 15:45:12.604 [main] Log4jdemo - this is an information message
+[ERROR] 2020-09-25 15:45:12.604 [main] Log4jdemo - this is an error message
+[WARN ] 2020-09-25 15:45:12.605 [main] Log4jdemo - this is waring message
+[FATAL] 2020-09-25 15:45:12.605 [main] Log4jdemo - this is fatal message
+[TRACE] 2020-09-25 15:46:48.279 [main] Log4jdemo - this is trace message
+[INFO ] 2020-09-25 15:46:48.286 [main] Log4jdemo - this is an information message
+[ERROR] 2020-09-25 15:46:48.286 [main] Log4jdemo - this is an error message
+[WARN ] 2020-09-25 15:46:48.287 [main] Log4jdemo - this is waring message
+[FATAL] 2020-09-25 15:46:48.287 [main] Log4jdemo - this is fatal message
+[TRACE] 2020-09-25 16:45:38.239 [main] Log4jdemo - this is trace message
+[INFO ] 2020-09-25 16:45:38.247 [main] Log4jdemo - this is an information message
+[ERROR] 2020-09-25 16:45:38.247 [main] Log4jdemo - this is an error message
+[WARN ] 2020-09-25 16:45:38.247 [main] Log4jdemo - this is waring message
+[FATAL] 2020-09-25 16:45:38.248 [main] Log4jdemo - this is fatal message
+[TRACE] 2020-09-25 16:45:57.118 [main] Log4jdemo - this is trace message
+[INFO ] 2020-09-25 16:45:57.127 [main] Log4jdemo - this is an information message
+[ERROR] 2020-09-25 16:45:57.128 [main] Log4jdemo - this is an error message
+[WARN ] 2020-09-25 16:45:57.128 [main] Log4jdemo - this is waring message
+[FATAL] 2020-09-25 16:45:57.128 [main] Log4jdemo - this is fatal message
